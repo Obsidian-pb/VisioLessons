@@ -5,6 +5,7 @@ This is example how you can use MS Visio+VBA for drawing lines which coordinates
 Just place file Coord.xls to root directory "C:\" then open file DrawFromExcel.vsd and run macro "DrawFromEcel"
 
 <ru>
+  
 # О чем это
 Это пример того, как вы можете испольуя связку Visio+VBA рисовать линии в документе Visio по координатам заданным в рабечей книге MS Excel
 
